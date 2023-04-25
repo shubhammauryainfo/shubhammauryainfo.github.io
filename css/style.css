@@ -1182,7 +1182,12 @@ border: 1px solid #CE1139;
 .pinterest a:hover {
     color: #cb2026;
 }
+.instagram a:hover {
 
+    color: #f11696;
+
+
+} 
 .gplus a:hover {
     color: #dd4b39;
 }
