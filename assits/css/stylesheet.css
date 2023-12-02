@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&family=Lexend+Deca:wght@100;200;300;400;500;600;700&family=Montserrat:wght@400;700&family=Mulish:wght@300&family=Poppins:wght@300;400;600&family=Urbanist:wght@300;400;600;700;800;900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Urbanist", sans-serif;
+}
+
+
+h1,h2,h3,h4,h5{
+    font-family: 'Lexend Deca', sans-serif;
+    color: var( --bs-dark-color);
+}
+
+h1{
+    font-size: 3.8rem;
+}
+
+h2{
+    line-height: 4rem;
+    font-weight: 600;
+    font-size: 3.4rem;
+}
+
+p{
+    margin: 0;
+    font-weight: 400;
+    font-size: 1rem;
+    color: var( --bs-dark-color);
+    letter-spacing: 0.07rem;
+    line-height: 1.55rem;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.bg-skill{
+    background-color:blueviolet;
+}
+
+
+.card:hover{
+     transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+ 
+
+.client_{
+    background:rgb(179, 177, 177);
+    border-radius: 23rem;
+    padding: 2px 4px 2px ;
+    width: 16rem;
+   
+}
+.bg-test{
+    background-image: url(icons/eff.gif);
+    background-repeat: no-repeat;
+    
+    background-size:cover;
+}
+.bg-footer{
+    background-image: url(icons/eff2.gif);
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    background-size:cover;
+}
+.bg-navbar{
+    background-image: url(icons/eff3.gif);
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    background-size:cover;
+}
