@@ -8,6 +8,25 @@
     font-family: "Urbanist", sans-serif;
 }
 
+/* #loading{
+position:fixed;
+top: 40%;
+right: -40%;
+margin-left: 34px;
+width: 100%;
+height: 100%;
+background:url(https://i.gifer.com/ZJFD.gif)
+no-repeat;
+background-color:;
+z-index: 1800;
+}
+@media (max-width: 992px) { 
+    #loading{
+        position: fixed;
+        right: -19%;
+    }
+ } */
+
 
 h1,h2,h3,h4,h5{
     font-family: 'Lexend Deca', sans-serif;
