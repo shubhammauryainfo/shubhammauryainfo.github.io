@@ -20,18 +20,19 @@
     crossorigin="anonymous" referrerpolicy="no-referrer"/>
 </head>
 
-<!-- <body onload="myloader()">
-  <div id="loading">
-<script>
-  var preloader = document.getElementById('loading');
-  function myloader(){
-    preloader.style.display = 'none';
-  }
-</script>
+ <body>
 
-
-  </div> -->
-
+  <div id="preloader">
+    <script>
+    
+     var loader = document.getElementById("preloader");
+    
+     window.addEventListener("load" , function(){
+      loader.style.display = "none";
+     })
+    
+    </script>
+        </div>
   <header>
    
     <nav class="navbar navbar-expand-lg navbar-light bg-navbar py-0">
