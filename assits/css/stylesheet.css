@@ -10,9 +10,7 @@
 
 /* preloader */
 #preloader{
-    background: #0d0d0d url(
-        https://d364i7dtinf8p5.cloudfront.net/w4dwbt%2Fpreview%2F55116157%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1703334143&Signature=E-934Hi6utWlru3TaK6KkJpT3LhjWl2wJCorIa8S8SmMV7GVeHXbhftoPrGgJTKmrtEsNVuJW~BnwxUaTbHvMPXGzwoZXvqOO4xy3pZkvMVTijy9-CvVnu8GZpUF5lVjVvPcT5PfwU8kCJfHGRLIRo1duhFFs1Y9fnW1AcY9fUJNk2qZVpLjjM1UaBgMgIiFI5GSnAvNG62CHdG-pIpWqJzSg5XFZBSPTS25E-Pb33xMV9fyOvAUyEH1AWoljyzls644VPj83AQOhgnBTIRw0NN~hEOggpV5jEzdwCLEsXXcUN0f32C65TorbLTlLcH57iRIm4g6V3JXBqfCJNVhsQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ
-        ) no-repeat center;
+    background: white url(loader.gif ) no-repeat center;
     background-size:100% ;
     height: 100vh;
     width: 100%;
