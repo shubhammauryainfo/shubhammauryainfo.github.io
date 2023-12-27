@@ -77,26 +77,26 @@ a{
    
 }
 .bg-test{
-    background-image: url(icons/eff.gif);
-    background-repeat: no-repeat;
-    
-    background-size:cover;
+    background: rgb(145,241,239);
+background: -moz-linear-gradient(94deg, rgba(145,241,239,1) 0%, rgba(255,213,224,1) 100%);
+background: -webkit-linear-gradient(94deg, rgba(145,241,239,1) 0%, rgba(255,213,224,1) 100%);
+background: linear-gradient(94deg, rgba(145,241,239,1) 0%, rgba(255,213,224,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#91f1ef",endColorstr="#ffd5e0",GradientType=1);
 }
+
 .bg-footer{
-    background-image: url(icons/eff2.gif);
-  
-    background-position: center;
-    background-repeat: no-repeat;
-    
-    background-size:cover;
+    background: rgb(230,174,238);
+    background: -moz-linear-gradient(191deg, rgba(230,174,238,0.9472163865546218) 33%, rgba(72,157,230,1) 97%);
+    background: -webkit-linear-gradient(191deg, rgba(230,174,238,0.9472163865546218) 33%, rgba(72,157,230,1) 97%);
+    background: linear-gradient(191deg, rgba(230,174,238,0.9472163865546218) 33%, rgba(72,157,230,1) 97%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e6aeee",endColorstr="#489de6",GradientType=1);
 }
 .bg-navbar{
-    background-image: url(icons/eff3.gif);
-  
-    background-position: center;
-    background-repeat: no-repeat;
-    
-    background-size:cover;
+    background: rgb(230,174,238);
+    background: -moz-linear-gradient(196deg, rgba(230,174,238,0.9472163865546218) 33%, rgba(72,157,230,1) 97%);
+    background: -webkit-linear-gradient(196deg, rgba(230,174,238,0.9472163865546218) 33%, rgba(72,157,230,1) 97%);
+    background: linear-gradient(196deg, rgba(230,174,238,0.9472163865546218) 33%, rgba(72,157,230,1) 97%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e6aeee",endColorstr="#489de6",GradientType=1);
 }
 
 
