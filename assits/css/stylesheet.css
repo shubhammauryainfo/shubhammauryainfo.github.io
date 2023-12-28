@@ -98,10 +98,35 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#91f1ef",endCo
     background: linear-gradient(196deg, rgba(230,174,238,0.9472163865546218) 33%, rgba(72,157,230,1) 97%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e6aeee",endColorstr="#489de6",GradientType=1);
 }
+/* social icon hover*/
 
+.social-twiter:hover
+{
+    color: rgb(0, 0, 0);
+}
 
+.social-facebook:hover
+{
+    color: rgb(20, 101, 223);
+   
+}
 
+.social-instagram:hover
+{
+    color:rgba(230, 21, 178, 0.966);
+}
 
+.social-link:hover
+{
+    color: rgb(20, 101, 223);
+}
+
+.social-github:hover
+{
+    color: rgb(0, 0, 0);
+}
+
+/* tooltips */
 
 
 
