@@ -446,7 +446,7 @@ a:hover {
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-image: url(/assets/images/portrait.webp);
+        background-image: url(/assets/images/portrait.png);
     }
     .hero-content {
         margin-top: 35px;
