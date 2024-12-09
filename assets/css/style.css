@@ -419,7 +419,7 @@ a:hover {
     background-size: contain;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(/assets/images/portrait.webp);
+    background-image: url(/assets/images/portrait.png);
 }
 
 @media (max-width: 576px) {
